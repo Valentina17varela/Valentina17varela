@@ -25,7 +25,7 @@ class BackendDeveloper:
     def __init__(self):
         self.name = "Valentina Varela Alzate"
         self.role = "Student of systems and computer engineering at UTP"
-        self.language_spoken = ["Spanish", "English"]
+        self.language_spoken = ["Spanish-Native💁‍♀️", "English-(C1 Advanced ~ C2 Proficient)🌟🌟🌟🌟🌟"]
         self.interests = ["Backend Development", "Data Analysis", "Game Development"]
 
     def motivation(self):
