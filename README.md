@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <strong> 🕹💻 Welcome < Developers! > 💻🕹</strong>
+  <strong> 🕹💻 Welcome < Developers > 💻🕹</strong>
 </h1>
 <br>
 
