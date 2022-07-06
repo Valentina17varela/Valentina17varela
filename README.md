@@ -8,6 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </div>
 
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/valentinavarelaalzate/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -18,6 +19,7 @@
 </div>
 <br>
 
+## 👩‍💻 About me
 ```python
 
 class BackendDeveloper:
@@ -35,7 +37,11 @@ class BackendDeveloper:
 me = BackendDeveloper()
 me.motivation()
 ```
-<br>
+
+## 📄 CV
+| English | Spanish |
+|---------|---------|
+| [Curriculum](https://github.com/Valentina17varela/Valentina17varela/blob/main/CV%20VALENTINA%20VARELA%20ALZATE.pdf) | [Curriculo](https://github.com/Valentina17varela/Valentina17varela/blob/main/VALENTINA%20VARELA%20ALZATE.pdf) |
   
 ## 💾 Languages & Technologies  
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
