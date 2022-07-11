@@ -37,11 +37,7 @@ class BackendDeveloper:
 me = BackendDeveloper()
 me.motivation()
 ```
-
-## 📄 CV
-| English | Spanish |
-|---------|---------|
-| [Curriculum](https://github.com/Valentina17varela/Valentina17varela/blob/main/CV%20VALENTINA%20VARELA%20ALZATE.pdf) | [Curriculo](https://github.com/Valentina17varela/Valentina17varela/blob/main/VALENTINA%20VARELA%20ALZATE.pdf) |
+<br>
   
 ## 💾 Languages & Technologies  
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -52,6 +48,8 @@ me.motivation()
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=6aa6f8)  
   
+<br>
+
 ## ✏ Learning 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=6aa6f8)
