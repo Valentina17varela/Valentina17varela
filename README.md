@@ -5,7 +5,7 @@
 <br>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <img src="https://github.com/Valentina17varela/Valentina17varela/assets/49218706/48bd0da9-c9b4-4346-a76b-7263a6e2438b" width="500"/>
 </div>
 
 <br>
