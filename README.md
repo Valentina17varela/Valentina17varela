@@ -52,7 +52,7 @@ me.motivation()
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=ED8B00)
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=43853D)
+![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=43853D)
 
 <br>
 
