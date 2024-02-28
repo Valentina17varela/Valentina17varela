@@ -45,15 +45,16 @@ me.motivation()
 ![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=43853D)
+![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=43853D)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=FFFF00)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=99dde7)
+
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=gin&logoColor=white&color=00ADD8)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=ED8B00)
-
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=43853D)
-
 <br>
 
   
