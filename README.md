@@ -70,38 +70,6 @@ me.motivation()
 </div>
 
 
-## 🚧 Projects
- <div align=center>
-  
-  <table>
-  <tr>
-    <td width="48%">
-      <a href="https://github.com/Valentina17varela/Restaurant_Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Valentina17varela&repo=Restaurant_Website&theme=holi&show_icons=true&bg_color=00000000" alt="Restaurant Website" width="100%">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Valentina17varela/Discord_Clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Valentina17varela&repo=Discord_Clone&theme=holi&show_icons=true&bg_color=00000000" alt="Discord Clone" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="47%">
-      <a href="https://github.com/Valentina17varela/Travel_Planner">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Valentina17varela&repo=Travel_Planner&theme=holi&show_icons=true&bg_color=00000000" alt="Travel Planner" width="100%">
-      </a>
-    </td>
-    <td width="54%">
-      <a href="https://github.com/Valentina17varela/courses-certifications">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Valentina17varela&repo=courses-certifications&theme=holi&show_icons=true&bg_color=00000000" alt="Courses Certifications" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
-  
-</div>
-
 
 
 
