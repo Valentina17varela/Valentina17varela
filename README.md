@@ -69,7 +69,12 @@ me.motivation()
   
 </div>
 
+<br>
 
+## 🏆 Achievements
+
+ <img src="https://github.com/user-attachments/assets/97465543-8332-4c29-9384-dee0215673ae" width="250"/>
+  <img src="https://github.com/user-attachments/assets/e554395d-6e4a-423d-955f-20d0fc520a8a" width="250"/>
 
 
 
