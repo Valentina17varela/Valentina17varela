@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <strong> 🎖️ Valentina Varela 🎖️</strong>
+  <strong> Valentina Varela </strong>
 </h1>
 <br>
 
@@ -68,14 +68,5 @@ me.motivation()
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina17varela&layout=compact)
   
 </div>
-
-<br>
-
-## 🏆 Achievements
-
- <img src="https://github.com/user-attachments/assets/97465543-8332-4c29-9384-dee0215673ae" width="250"/>
-  <img src="https://github.com/user-attachments/assets/e554395d-6e4a-423d-955f-20d0fc520a8a" width="250"/>
-
-
 
 
