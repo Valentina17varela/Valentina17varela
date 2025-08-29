@@ -1,62 +1,74 @@
+<div align="center">
+  
+# 👋 ¡Hi! I'm Valentina Varela
+### 🚀 Software Engineer & Backend Developer
 
-<h1 align="center">
-  <strong> Valentina Varela </strong>
-</h1>
-<br>
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc2bDVsNzFhOTl3M3NpMmV5aml6YjhldnB5M2trNnVkanJndGc3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)
 
-<div id="header" align="center">
-  <img src="https://github.com/Valentina17varela/Valentina17varela/assets/49218706/48bd0da9-c9b4-4346-a76b-7263a6e2438b" width="350"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinavarelaalzate/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentina.varela17@outlook.com)
+
 </div>
 
-<br>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/valentinavarelaalzate/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
-</div>
-<br>
+---
 
 ## 👩🏻‍💻 About me
 ```python
-
 class BackendDeveloper:
-
     def __init__(self):
         self.name = "Valentina Varela Alzate"
-        self.role = "Software engineer and Backend developer"
-        self.language_spoken = ["Spanish ~ Native", "English ~ C1/C2"]
+        self.role = "Software Engineer & Backend Developer"
+        self.location = "Pereira, Colombia 🇨🇴"
+        self.languages = ["Spanish (Native)", "English (C1)"]
         self.interests = ["Backend Development", "Data Analysis", "Game Development"]
+        self.motto = "Divide and Conquer 💡"
+        self.currently_learning = ["Cloud Architecture", "Microservices", "DevOps"]
+        
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Code Review",
+            "afternoon": "🔥 Coding time",
+            "evening": "📚 Learning new technologies"
+        }
+    
+    def collaborate_on(self):
+        return ["Open Source Projects", "Backend APIs", "Data Analysis Tools"]
 
-    def motivation(self):
-        print("Divide and Conquer")
-
-  
 me = BackendDeveloper()
-me.motivation()
 ```
+
+---
+
 <br>
   
-## 🚀 Languages & Technologies  
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
+## 🛠️ Tech stack  
+### 💾 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=NestJS&logoColor=white&color=43853D)
-![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=43853D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=FFFF00)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=Typescript&logoColor=white&color=99dde7)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
-![](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=gin&logoColor=white&color=00ADD8)
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=ED8B00)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br>
 
   
