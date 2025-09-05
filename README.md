@@ -1,9 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hi! I'm Valentina Varela
-### 🚀 Software Engineer & Backend Developer
-
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc2bDVsNzFhOTl3M3NpMmV5aml6YjhldnB5M2trNnVkanJndGc3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)
+<img width="829" height="211" alt="Screenshot 2025-09-05 at 1 27 41 PM" src="https://github.com/user-attachments/assets/6e10dfd2-6426-48db-8645-869ce5d2761a" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinavarelaalzate/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
