@@ -1,6 +1,7 @@
 <div align="center">
   
-<img width="829" height="211" alt="Screenshot 2025-09-05 at 1 27 41 PM" src="https://github.com/user-attachments/assets/6e10dfd2-6426-48db-8645-869ce5d2761a" />
+![Screen Recording 2025-10-09 at 12 11 23 PM-3](https://github.com/user-attachments/assets/0e6985ea-4c01-4eb8-8dd6-175f6680bcc7)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinavarelaalzate/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
