@@ -49,7 +49,7 @@ me = BackendDeveloper()
 | [![Javascript](https://skillicons.dev/icons?i=js,ts&theme=dark)](https://skillicons.dev) | [![Go](https://skillicons.dev/icons?i=go,gin&theme=dark)](https://skillicons.dev) |
 
 ### 🗃️ Databases
-[![Database Skills](https://skillicons.dev/icons?i=postgresql,firebase,mongodb,redis,supabase&theme=dark)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=postgresql,firebase,mongodb,redis&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
 [![Cloud Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark)](https://skillicons.dev)
@@ -57,11 +57,17 @@ me = BackendDeveloper()
 
   
 <br>
+
+
+---
+
 <br>
+  
+## ✏️ Learning 
   
 <div align=center>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina17varela&layout=compact)
+  [![roadmap.sh](https://roadmap.sh/card/wide/68ee7d5e17747caa5a8a984c?variant=dark)](https://roadmap.sh)
   
 </div>
 
