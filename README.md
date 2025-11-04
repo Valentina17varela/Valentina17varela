@@ -1,7 +1,6 @@
 <div align="center">
-  
-![Screen Recording 2025-10-09 at 12 11 23 PM-3](https://github.com/user-attachments/assets/0e6985ea-4c01-4eb8-8dd6-175f6680bcc7)
 
+<img src="https://github.com/user-attachments/assets/6db785b5-ffbc-42a3-b5f7-da46b70e2ebc" width="600">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinavarelaalzate/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
