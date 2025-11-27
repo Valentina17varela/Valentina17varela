@@ -42,18 +42,17 @@ me = BackendDeveloper()
 <br>
   
 ## 💻 Tech Stack 
-## 🚀 Backend & APIs
-| Python | Node.js |
-|:---:|:---:|
-| [![Python](https://skillicons.dev/icons?i=python,django,fastapi,flask&theme=dark)](https://skillicons.dev) | [![Node](https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark)](https://skillicons.dev) |
-| **JavaScript** | **Go** |
-| [![Javascript](https://skillicons.dev/icons?i=js,ts&theme=dark)](https://skillicons.dev) | [![Go](https://skillicons.dev/icons?i=go,gin&theme=dark)](https://skillicons.dev) |
 
-### 🗃️ Databases
-[![Database Skills](https://skillicons.dev/icons?i=postgresql,firebase,mongodb,redis&theme=dark)](https://skillicons.dev)
 
-### ☁️ Cloud & DevOps
-[![Cloud Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark)](https://skillicons.dev)
+| Category | Skills |
+| :--- | :--- |
+| **Python** | [![Python](https://skillicons.dev/icons?i=python,django,fastapi,flask&theme=dark)](https://skillicons.dev) |
+| **JS / Node** | [![Node](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express&theme=dark)](https://skillicons.dev) |
+| **Go** | [![Go](https://skillicons.dev/icons?i=go,gin&theme=dark)](https://skillicons.dev) |
+| **Database** | [![DB](https://skillicons.dev/icons?i=postgresql,firebase,mongodb,redis&theme=dark)](https://skillicons.dev) |
+| **DevOps** | [![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark)](https://skillicons.dev) |
+
+</div>
 <br>
 
   
