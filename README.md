@@ -1,6 +1,7 @@
 <div align="center">
     
-![laptop-with-glowing-screen-table-dark-top-view-copy-space](https://github.com/user-attachments/assets/e6f8e254-d558-4181-ab27-932a1f0124c3)
+<img width="1439" height="502" alt="Screenshot 2025-11-27 at 3 02 57 PM" src="https://github.com/user-attachments/assets/a6fccff1-ea4a-4dae-901f-c10dba98af26" />
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinavarelaalzate/)
