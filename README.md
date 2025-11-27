@@ -1,6 +1,7 @@
 <div align="center">
+    
+![laptop-with-glowing-screen-table-dark-top-view-copy-space](https://github.com/user-attachments/assets/e6f8e254-d558-4181-ab27-932a1f0124c3)
 
-<img src="https://github.com/user-attachments/assets/6db785b5-ffbc-42a3-b5f7-da46b70e2ebc" width="600">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinavarelaalzate/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
