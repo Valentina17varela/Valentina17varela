@@ -2,11 +2,11 @@
     
 <img width="1439" height="502" alt="Screenshot 2025-11-27 at 3 02 57 PM" src="https://github.com/user-attachments/assets/a6fccff1-ea4a-4dae-901f-c10dba98af26" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/valentinavarelaalzate/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=social&logo=youtube)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:valentina.varela17@outlook.com)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentinavarelaalzate/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentina.varela17@outlook.com)
 
 </div>
 
