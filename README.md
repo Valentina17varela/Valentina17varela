@@ -1,6 +1,8 @@
 <div align="center">
     
-<img width="1439" height="502" alt="Screenshot 2025-11-27 at 3 02 57 PM" src="https://github.com/user-attachments/assets/a6fccff1-ea4a-4dae-901f-c10dba98af26" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Valentina%20Varela&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descAlign=50&colorStart=FF0000&colorEnd=00BFFF" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;Python+%7C+Go+%7C+Node.js+Engineer;Always+learning+new+things+%F0%9F%93%9A;Divide+and+Conquer+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/valentinavarelaalzate/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=social&logo=youtube)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
@@ -14,15 +16,14 @@
 
 ## 👩🏻‍💻 About me
 ```python
-class BackendDeveloper:
+class BackendEngineer:
     def __init__(self):
         self.name = "Valentina Varela Alzate"
         self.role = "Software Engineer & Backend Developer"
         self.location = "Pereira, Colombia 🇨🇴"
         self.languages = ["Spanish (Native)", "English (C1)"]
-        self.interests = ["Backend Development", "Data Analysis", "Game Development"]
-        self.motto = "Divide and Conquer 💡"
-        self.currently_learning = ["Cloud Architecture", "Microservices", "DevOps"]
+        self.interests = ["Backend Development", "Data Analysis", "System Design"]
+        self.motivation = "Divide and Conquer 💡"
         
     def get_daily_routine(self):
         return {
@@ -30,19 +31,15 @@ class BackendDeveloper:
             "afternoon": "🔥 Coding time",
             "evening": "📚 Learning new technologies"
         }
-    
-    def collaborate_on(self):
-        return ["Open Source Projects", "Backend APIs", "Data Analysis Tools"]
 
-me = BackendDeveloper()
+me = BackendEngineer()
 ```
 
 ---
 
-<br>
-  
-## 💻 Tech Stack 
+## 💻 Tech Stack
 
+<div align="center">
 
 | Category | Skills |
 | :--- | :--- |
@@ -53,11 +50,6 @@ me = BackendDeveloper()
 | **DevOps** | [![Cloud](https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark)](https://skillicons.dev) |
 
 </div>
-<br>
-
-  
-<br>
-
 
 ---
 
@@ -70,5 +62,14 @@ me = BackendDeveloper()
   [![roadmap.sh](https://roadmap.sh/card/wide/68ee7d5e17747caa5a8a984c?variant=dark)](https://roadmap.sh)
   
 </div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&colorStart=FF0000&colorEnd=00BFFF"/>
+</div>
+
+
+
 
 
