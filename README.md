@@ -1,14 +1,8 @@
 <div align="center">
     
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Valentina%20Varela&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descAlign=50&colorStart=FF0000&colorEnd=00BFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Valentina%20Varela&fontSize=50&fontColor=fff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50&colorStart=FF0000&colorEnd=00BFFF" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;Python+%7C+Go+%7C+Node.js;Always+learning+new+things+%F0%9F%93%9A;Divide+and+Conquer+%F0%9F%92%A1)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/valentinavarelaalzate/)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=social&logo=youtube)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:valentina.varela17@outlook.com)
-
-
+<img width="1439" height="502" alt="Screenshot 2025-11-27 at 3 02 57 PM" src="https://github.com/user-attachments/assets/a6fccff1-ea4a-4dae-901f-c10dba98af26" />
 
 </div>
 
@@ -66,6 +60,11 @@ me = BackendEngineer()
 ---
 
 <div align="center">
+    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/valentinavarelaalzate/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=social&logo=youtube)](https://www.youtube.com/channel/UCx0-qBzkJ2xlU4-PFKUBqnQ)
+[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:valentina.varela17@outlook.com)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&colorStart=FF0000&colorEnd=00BFFF"/>
 </div>
 
