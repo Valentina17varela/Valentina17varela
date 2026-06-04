@@ -16,7 +16,7 @@ class BackendEngineer:
         self.role = "Software Engineer & Backend Developer"
         self.location = "Pereira, Colombia 🇨🇴"
         self.languages = ["Spanish (Native)", "English (C1)"]
-        self.interests = ["Backend Development", "Data Analysis", "System Design"]
+        self.interests = ["Backend Development", "Problem Solving", "System Design"]
         self.motivation = "Divide and Conquer 💡"
         
     def get_daily_routine(self):
